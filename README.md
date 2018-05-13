@@ -1,30 +1,15 @@
-/* -------------------------------------------------------------------------
- *
- *	$1 Java
- *
- * 	This is a Java port of the $1 Gesture Recognizer by
- *	Jacob O. Wobbrock, Andrew D. Wilson, Yang Li.
- * 
- *	"The $1 Unistroke Recognizer is a 2-D single-stroke recognizer designed for 
- *	rapid prototyping of gesture-based user interfaces."
- *	 
- *	http://depts.washington.edu/aimgroup/proj/dollar/
- *
- *	Copyright (C) 2009, Alex Olwal, www.olwal.com
- *
- *	$1 Java free software: you can redistribute it and/or modify
- *	it under the terms of the GNU General Public License as published by
- *	the Free Software Foundation, either version 3 of the License, or
- *	(at your option) any later version.
- *
- *	$1 Java is distributed in the hope that it will be useful,
- *	but WITHOUT ANY WARRANTY; without even the implied warranty of
- *	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *	GNU General Public License for more details.
- *
- *	You should have received a copy of the GNU General Public License
- *	along with $1 Java.  If not, see <http://www.gnu.org/licenses/>.
- *
- *  -------------------------------------------------------------------------
- */
+$1 Gestire Recognizer in Java
+======================
+This is a Java port of the [$1 Unistroke Recognizer project](http://depts.washington.edu/madlab/proj/dollar/) at University of Washington/Microsoft Research: "a 2-D single-stroke recognizer designed for rapid prototyping of gesture-based user interfaces.". 
 
+It was a quick port from the C# version to enable quick experiments on early touch-screen cell phones runing Java ME (Micro Edition), and later adapted for Android. 
+
+[![$1 gesture recognition on Java ME phone](https://i.vimeocdn.com/video/86718056_260x146.jpg)](https://vimeo.com/2874413)
+
+Version History
+---------------
+0.1: 2009 01 18
+
+Contributors
+------------
+- Alex Olwal (olwal.com)
