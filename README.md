@@ -1,4 +1,4 @@
-$1 Gestire Recognizer in Java
+$1 Gesture Recognizer in Java
 ======================
 This is a Java port of the [$1 Unistroke Recognizer project](http://depts.washington.edu/madlab/proj/dollar/) at University of Washington/Microsoft Research: "a 2-D single-stroke recognizer designed for rapid prototyping of gesture-based user interfaces.". 
 
